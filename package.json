@@ -1,0 +1,16 @@
+{
+  "name": "BioOrchestrator",
+  "version": "1.0.0",
+  "description": "frontend service",
+  "author": "Gabriel and San",
+  "license": "MIT",
+  "main": "app.js",
+  "keywords": [
+    "nodejs",
+    "bootstrap",
+    "express"
+  ],
+  "dependencies": {
+    "express": "latest"
+  }
+}
